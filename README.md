@@ -1,7 +1,7 @@
 
 - 😄 Olá, me chamo Antonio Malato, atualmente em transição de carreira, sou estudante de desenvolvimento web.
 - 💚 Formação sendo realizada na Trybe.
-- 🌱 Atualmente estou concluindo o módulo de back-end e ansioso para iniciar na ciência da computação.
+- 🌱 Atualmente com a formação full stack concluída e finalizando o modulo de ciência da computação.
 - 🗺️ As próximas técnologias que darei inicio, Typescript, Python, Django e Next.js.
 - 📫 Email: malatoneto@gmail.com
 
